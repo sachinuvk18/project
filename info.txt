@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 jhdbj
+=======
+"this is the secondline."
+"this is a new third line."
+"another lin added."
+change from dev2 branch.
+>>>>>>> dev2
